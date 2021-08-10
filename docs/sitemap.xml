@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://csc4200.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://csc4200.github.io/material/</loc>
+  </url>
+  
+  <url>
+    <loc>https://csc4200.github.io/programming3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://csc4200.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://csc4200.github.io/programming1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://csc4200.github.io/syllabus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://csc4200.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://csc4200.github.io/programming2/</loc>
+  </url>
+  
+</urlset>
